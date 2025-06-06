@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/zhang/Documents/PAI/ca2/mlruns/0/7bd469981b164e848956a72244fc00a2/artifacts
+end_time: 1644584446009
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 7bd469981b164e848956a72244fc00a2
+run_uuid: 7bd469981b164e848956a72244fc00a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1644584075901
+status: 3
+tags: []
+user_id: zhang
